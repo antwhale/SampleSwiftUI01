@@ -14,6 +14,7 @@
 		F8F542E62CE50CC700932A4F /* SampleSwiftUI01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F542E52CE50CC700932A4F /* SampleSwiftUI01Tests.swift */; };
 		F8F542F02CE50CC700932A4F /* SampleSwiftUI01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F542EF2CE50CC700932A4F /* SampleSwiftUI01UITests.swift */; };
 		F8F542F22CE50CC700932A4F /* SampleSwiftUI01UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F542F12CE50CC700932A4F /* SampleSwiftUI01UITestsLaunchTests.swift */; };
+		F8F542FF2CE50FC800932A4F /* MyVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F542FE2CE50FC800932A4F /* MyVstack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F8F542EB2CE50CC700932A4F /* SampleSwiftUI01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleSwiftUI01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8F542EF2CE50CC700932A4F /* SampleSwiftUI01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleSwiftUI01UITests.swift; sourceTree = "<group>"; };
 		F8F542F12CE50CC700932A4F /* SampleSwiftUI01UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleSwiftUI01UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F8F542FE2CE50FC800932A4F /* MyVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVstack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F8F542D62CE50CC600932A4F /* ContentView.swift */,
 				F8F542D82CE50CC700932A4F /* Assets.xcassets */,
 				F8F542DA2CE50CC700932A4F /* Preview Content */,
+				F8F542FE2CE50FC800932A4F /* MyVstack.swift */,
 			);
 			path = SampleSwiftUI01;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8F542FF2CE50FC800932A4F /* MyVstack.swift in Sources */,
 				F8F542D72CE50CC600932A4F /* ContentView.swift in Sources */,
 				F8F542D52CE50CC600932A4F /* SampleSwiftUI01App.swift in Sources */,
 			);
